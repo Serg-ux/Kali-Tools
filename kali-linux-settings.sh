@@ -43,7 +43,6 @@ sudo apt install -y \
   wordlists \
   tcpdump \
   dirbuster \
-  dirb \
   sqlmap \
   smbclient \
   enum4linux \
@@ -73,17 +72,17 @@ sudo apt install -y \
   default-mysql-client \
   exiftool \
   postgresql \
-  rsync \
   bloodhound \
   chisel \
   wafwoof \
   mimikatz \
   wifite \
   hping3 \
-  gophish \
   sqlitebrowser \
   netexec \
-  rsh-client
+  netcat-openbsd \  
+  nikto \
+
 
 # Clonar el repositorio de exploit-database
 git clone https://github.com/offensive-security/exploit-database.git
