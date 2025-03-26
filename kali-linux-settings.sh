@@ -82,6 +82,7 @@ sudo apt install -y \
   netexec \
   netcat-openbsd \  
   nikto \
+  cewl \
 
 
 # Clonar el repositorio de exploit-database
