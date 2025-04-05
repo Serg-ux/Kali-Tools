@@ -73,6 +73,7 @@ sudo apt install -y \
   exiftool \
   postgresql \
   bloodhound \
+  bloodyad \
   chisel \
   wafwoof \
   mimikatz \
