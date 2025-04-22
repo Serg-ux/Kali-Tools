@@ -84,6 +84,7 @@ sudo apt install -y \
   netcat-openbsd \  
   nikto \
   cewl \
+  medusa \
 
 
 # Clonar el repositorio de exploit-database
