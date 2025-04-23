@@ -85,6 +85,7 @@ sudo apt install -y \
   nikto \
   cewl \
   medusa \
+  responder \
 
 
 # Clonar el repositorio de exploit-database
