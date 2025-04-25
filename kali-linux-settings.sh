@@ -94,7 +94,7 @@ git clone https://github.com/offensive-security/exploit-database.git
 # Descargar peas para escalada de privilegios en WIndows y Linux
 git clone https://github.com/peass-ng/PEASS-ng
 #ssh
-git clone https://github.com/jtesta/ssh-audit.gi
+git clone https://github.com/jtesta/ssh-audit.git
 # Actualizar e instalar exploitdb
 sudo apt update && sudo apt -y install exploitdb
 
