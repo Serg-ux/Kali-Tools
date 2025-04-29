@@ -83,6 +83,7 @@ sudo apt install -y \
   netexec \
   netcat-openbsd \  
   nikto \
+  sqsh \
   cewl \
   medusa \
   responder \
