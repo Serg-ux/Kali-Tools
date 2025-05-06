@@ -88,6 +88,7 @@ sudo apt install -y \
   responder \
   sqsh \
   sqlcmd \
+  crowbar \
 
 
 # Clonar el repositorio de exploit-database
