@@ -91,6 +91,8 @@ sudo apt install -y \
   crowbar \
   fierce \
   subfinder \
+  ettercap\
+  bettercap\
 
 
 # Clonar el repositorio de exploit-database
