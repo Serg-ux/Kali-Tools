@@ -93,6 +93,7 @@ sudo apt install -y \
   subfinder \
   ettercap\
   bettercap\
+  autopsy\
 
 
 # Clonar el repositorio de exploit-database
