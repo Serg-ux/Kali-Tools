@@ -94,6 +94,7 @@ sudo apt install -y \
   ettercap\
   bettercap\
   autopsy\
+  swaks\
 
 
 # Clonar el repositorio de exploit-database
