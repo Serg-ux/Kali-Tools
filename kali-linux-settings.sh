@@ -95,6 +95,7 @@ sudo apt install -y \
   bettercap\
   autopsy\
   swaks\
+  ntpsec-ntpdate \
 
 
 # Clonar el repositorio de exploit-database
