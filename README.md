@@ -67,4 +67,3 @@
 - **gcc / mingw-w64** – Code compilation for Linux and Windows.
 - **php** – Useful for scripting or web testing.
 - **powershell** – Essential for Windows pentesting.
-
