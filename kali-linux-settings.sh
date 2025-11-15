@@ -29,6 +29,7 @@ sudo apt install -y \
   evil-winrm \
   dnsenum \
   whatweb \
+  faketime \
   dnsrecon \
   sublist3r \
   theharvester \
