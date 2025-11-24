@@ -34,6 +34,7 @@ sudo apt install -y \
   sublist3r \
   theharvester \
   hashcat \
+  proxychains \
   crackmapexec \
   gobuster \
   impacket-scripts \
