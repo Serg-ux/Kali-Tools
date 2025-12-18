@@ -27,6 +27,7 @@ sudo apt install -y \
   nmap \
   john \
   evil-winrm \
+  rubeus \
   dnsenum \
   whatweb \
   faketime \
